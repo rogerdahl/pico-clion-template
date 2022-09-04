@@ -135,4 +135,3 @@ I have no idea why.
 | next,[enter,...] | Stepping over the main function |
 | Continuing execution | continue |
 | CTRL-C, CTRL-D | Breaking and detaching from the target |
-# pico-clion-template
