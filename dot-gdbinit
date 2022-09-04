@@ -1,0 +1,8 @@
+# Save to ~/.gdbinit
+
+set history save on
+
+#redefine "target remote" as "target extended-remote":
+define target remote
+target extended-remote $arg0
+end

@@ -135,3 +135,14 @@ I have no idea why.
 | next,[enter,...] | Stepping over the main function |
 | Continuing execution | continue |
 | CTRL-C, CTRL-D | Breaking and detaching from the target |
+| set pagination off | |
+| set logging file gdb.txt | |
+| set logging on | |
+| end | |
+| info breakpoints | |
+| r | |
+| set logging off | |
+| quit | |
+| load | |
+| monitor option erase | |
+| monitor erase_mass | |
